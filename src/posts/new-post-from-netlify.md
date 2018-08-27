@@ -7,4 +7,4 @@ Hey, this is from Netlify-CMS
 
 **Cool**
 
-![](/static/assets/bigstock-manager-and-clock-21327020.jpg)
+![null](/static/assets/bigstock-manager-and-clock-21327020.jpg)
