@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: blorriman/levelupgatsby2
 
 media_folder: static/assets
 
